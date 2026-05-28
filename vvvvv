@@ -5,12 +5,11 @@
 #profile-update-interval: 1
 #support-url: https://t.me/fuckSqqwizyy
 #profile-web-page-url: https://t.me/VPN_NeoNet
-#profile-update-interval: 6
-#subscription-userinfo: upload=0; download=12884901888; total=∞; expire=0
+#subscription-userinfo: upload=0; download=12884901888; total=536870912000; expire=0
 #profile-locked: true
 #profile-type: encrypted
+#profile-locked: true
 #hide-settings: 1
-
 
 vless://83d6b8fe-14d5-4e02-981a-56a405a79864@87.236.22.165:443?type=grpc&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=safari&pbk=c-37qP52qpEWzt4Na3_MB8IeqrzuF2dbYGIyXPSgcSI#🇷🇺 RU | gRPC | Ads
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM@185.5.38.111:55988?#🇳🇱 NL | Shadowsocks
