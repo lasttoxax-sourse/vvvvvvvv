@@ -58,3 +58,20 @@ vless://742cb7e6-32ce-4a81-bea5-3e0bbfa205f3@data4.inboxlv.app:443?encryption=no
 vless://742cb7e6-32ce-4a81-bea5-3e0bbfa205f3@data5.inboxlv.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=data5.inboxlv.app&fp=firefox&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=&type=tcp#🇳🇱%20Нидерланды%20%2321
 vless://742cb7e6-32ce-4a81-bea5-3e0bbfa205f3@data6.inboxlv.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=data6.inboxlv.app&fp=firefox&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=&type=tcp#🇳🇱%20Нидерланды%20%2322
 vless://742cb7e6-32ce-4a81-bea5-3e0bbfa205f3@gpuger1.inboxlv.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gpuger1.inboxlv.app&fp=firefox&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=&type=tcp#🇳🇱%20Нидерланды%20%2323
+vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@cloud.perecmusic.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&type=tcp#🇩🇪 Германия #2
+
+vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@api.radioperec.ru:43435?encryption=none&flow=&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=2f86c1d4a9e53b7c&type=grpc&serviceName=cloud#🇳🇱 Нидерланды #24
+
+vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@cl-4.perecm.ru:43439?encryption=none&flow=&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=687d221abe42cd17&type=grpc&serviceName=ws#🇵🇱 Польша #10
+
+vless://f264f4e9-3c91-0021-8597-51f9cbb25a2e@fl.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&type=tcp#🇫🇮 Финляндия #1
+
+vless://f264f4e9-3c91-0021-8597-51f9cbb25a2e@perecbass.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4c8d1e0f&type=tcp#🇪🇪 Эстония #1
+
+vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@brn.perecmus.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&type=tcp#🇷🇺 Россия (LTE) #1
+
+vless://f264f4e9-3c91-0021-8597-51f9cbb25a2e@sw.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4c8d1e0f&type=tcp#🇸🇪 Швеция #1
+
+vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@lv.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=8c2d9e1f&type=tcp#🇱🇻 Латвия #2
+
+vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@br.muzon.to:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=1f2a3b4c&type=tcp#🇷🇺 Россия (заграница) #1
