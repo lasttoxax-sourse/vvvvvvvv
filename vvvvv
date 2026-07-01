@@ -75,3 +75,12 @@ vless://f264f4e9-3c91-0021-8597-51f9cbb25a2e@sw.musicperec.ru:443?encryption=non
 vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@lv.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=8c2d9e1f&type=tcp#🇱🇻 Латвия #2
 
 vless://f264f4e9-3c91-4df7-8597-51f9cbb25a2e@br.muzon.to:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=Jg7t1GwxpS4fhsYzqgz37zlQRSd8YAHECtgdGFDrnDc&sid=1f2a3b4c&type=tcp#🇷🇺 Россия #2
+hysteria://newlte.kihsuyhf8jkiugsxb.cfd:6443?insecure=1&upmbps=300&downmbps=300&obfs=xplus&auth=0dd50f72-bf39-4b59-b183-61b3fa52df57&protocol=udp#🏳️ Белый список #7
+
+hysteria://newlte.kihsuyhf8jkiugsxb.cfd:7443?insecure=1&upmbps=300&downmbps=300&obfs=xplus&auth=0dd50f72-bf39-4b59-b183-61b3fa52df57&protocol=udp#🏳️ Белый список #8
+
+hysteria://newlte.kihsuyhf8jkiugsxb.cfd:9443?insecure=1&upmbps=300&downmbps=300&obfs=xplus&auth=0dd50f72-bf39-4b59-b183-61b3fa52df57&protocol=udp#🏳️ Белый список #9
+
+hysteria://newlte.kihsuyhf8jkiugsxb.cfd:8443?insecure=1&upmbps=300&downmbps=300&obfs=xplus&auth=0dd50f72-bf39-4b59-b183-61b3fa52df57&protocol=udp#🏳️ Белый список #10
+
+hysteria://newlte.kihsuyhf8jkiugsxb.cfd:443?insecure=1&upmbps=300&downmbps=300&obfs=xplus&auth=0dd50f72-bf39-4b59-b183-61b3fa52df57&protocol=udp#🏳️ Белый список #11
